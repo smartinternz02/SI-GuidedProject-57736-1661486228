@@ -16,7 +16,7 @@ HOW TO USE ?
 5. Now you can check the items you'd added.
 6. Once you no longer needs the items list, you can delete any item by taping on delete button (the bin icon).
 
-## Google Developer Profile Link - https://g.dev/aftabk
+## Google Developer Profile Link - (https://g.dev/aftabN)
 
 ## Project Report
 
