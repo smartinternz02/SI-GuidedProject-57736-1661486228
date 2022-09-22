@@ -17,3 +17,6 @@ HOW TO USE ?
 6. Once you no longer needs the items list, you can delete any item by taping on delete button (the bin icon).
 
 ## Google Developer Profile Link - https://g.dev/aftabk
+
+## Project Report
+[SI-57736-1661486233.pdf](https://github.com/smartinternz02/SI-GuidedProject-57736-1661486228/files/9628081/SI-57736-1661486233.pdf)
